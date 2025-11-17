@@ -8,8 +8,8 @@
 - **Студенты:** Выполняют задания через Pull Requests
 
 ## Доступные курсы
-- [Introduction to Python](courses/course-intro-to-python/)
-- [Web Development 2023](courses/course-web-dev-2023/)
+- Управление ИТ-проектами
+- Онтология и моделирование бизнес процессов
 
 ## Как начать работать студенту
 
